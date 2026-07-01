@@ -132,8 +132,6 @@ This repository will gradually expand to include:
 # 📈 Current Progress
 
 ```
-Python                 ████████████████████ 100%
-
 NumPy                  ████████████████████ 100%
 
 Pandas                 ████████████████████ 100%
@@ -141,6 +139,10 @@ Pandas                 ███████████████████
 Matplotlib             ░░░░░░░░░░░░░░░░░░░░   0%
 
 Seaborn                ░░░░░░░░░░░░░░░░░░░░   0%
+
+Statistics             ░░░░░░░░░░░░░░░░░░░░   0%
+
+Feature Engineering    ░░░░░░░░░░░░░░░░░░░░   0%
 
 Scikit-Learn           ░░░░░░░░░░░░░░░░░░░░   0%
 
