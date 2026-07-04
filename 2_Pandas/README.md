@@ -33,8 +33,14 @@ The goal is not just to learn syntax but to build a strong understanding of data
 ### ✅ Data Summary
 
 - `describe()`
-- `nunique()`
 - `unique()`
+- `nunique()`
+
+### ✅ Reading Data
+
+- Reading CSV files (`read_csv()`)
+- Reading Excel files (`read_excel()`)
+- Reading Parquet files (`read_parquet()`)
 
 ---
 
@@ -45,7 +51,12 @@ building-ml-foundations-with-pandas
 │
 ├── notebooks
 │   ├── 2026-06-29_pandas_dataframe_basics.ipynb
-│   └── 2026-07-03_pandas_basics.ipynb
+│   ├── 2026-07-03_pandas_basics.ipynb
+│   └── 2026-07-04_reading_data.ipynb
+│
+├── coffee.csv
+├── olympics-data.xlsx
+└── results.parquet
 │
 ├── README.md
 └── .gitignore
@@ -69,9 +80,10 @@ Build a strong foundation in **Pandas** for:
 ## 📅 Progress
 
 | Day | Topic | Status |
-|------|-------|--------|
+|------|------------------------------|--------|
 | 1 | DataFrame Basics | ✅ Completed |
 | 2 | Data Exploration & Summary Statistics | ✅ Completed |
+| 3 | Reading CSV, Excel & Parquet Files | ✅ Completed |
 
 ---
 
@@ -85,7 +97,22 @@ Build a strong foundation in **Pandas** for:
 
 ## 📌 Repository Purpose
 
-This repository serves as my personal learning journal while mastering Pandas. Each notebook focuses on a specific concept with hands-on examples and experiments that strengthen my understanding of data manipulation and analysis.
+This repository serves as my personal learning journal while mastering Pandas. Each notebook focuses on a specific concept with hands-on examples and experiments that strengthen my understanding of data manipulation, exploration, and analysis.
+
+---
+
+## 🚀 Upcoming Topics
+
+- Selecting Rows & Columns
+- Indexing (`loc` & `iloc`)
+- Filtering Data
+- Sorting Data
+- Handling Missing Values
+- GroupBy Operations
+- Aggregation Functions
+- Merging & Joining DataFrames
+- Pivot Tables
+- Feature Engineering
 
 ---
 
@@ -93,10 +120,11 @@ This repository serves as my personal learning journal while mastering Pandas. E
 
 This repository is part of my Machine Learning learning journey.
 
-More repositories coming soon covering:
+Related repositories:
 
-- NumPy ✅
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Machine Learning Projects
+- ✅ NumPy Mastery
+- 🔄 Pandas Mastery (Current)
+- ⏳ Matplotlib Mastery
+- ⏳ Seaborn Mastery
+- ⏳ Scikit-Learn Mastery
+- ⏳ Machine Learning Projects
